@@ -39,4 +39,6 @@ Plan
     3. Divide and Conquer
         - Code
 
+Project Link = https://www.theodinproject.com/lessons/foundations-rock-paper-scissors
+
 
